@@ -1,0 +1,31 @@
+---
+title: Occupy for Climate
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: pages
+    type: pages
+  values:
+    layout: default
+    permalink: "/:basename:output_ext"
+email: e@ma.il
+description: 'Youth for Climate Luxembourg
+
+'
+baseurl: 'yfcl-wip'
+url: ''
+permalink: pretty
+markdown: kramdown
+gems:
+- jekyll-feed
+- jekyll-seo-tag
+exclude:
+- Gemfile
+- Gemfile.lock
