@@ -248,7 +248,7 @@ table.heroT {
     }
     
     h1 {
-        padding: .6em 0 .05em 0;
+        padding: .6em 0 .1em 0;
         text-transform: uppercase;
 //        color: $secondary;
         color: $prime;
@@ -304,11 +304,12 @@ table.heroT {
     }
     
     p, li {
-        line-height: 1.2em;
+//        line-height: 1.3em;
         margin-bottom: 0.2em;
         font-family: Fira Sans;
         text-transform: none;
-        font-size: .6em;
+        text-align: justify;
+        font-size: .62em;
         font-weight: 500;
     }
     
@@ -352,6 +353,11 @@ table.heroT {
         font-size: 1.4em;
     }
     
+    .page p, .page li {
+        font-size: .8em;
+        line-height: 1.35em;
+    }
+    
     .titlebar a {
         font-size: 1.25em;
     }
@@ -366,7 +372,7 @@ table.heroT {
 //    background-color: green;
     
     .amod {
-        width: 10.5em;
+        width: 9.5em;
         background-color: red;
         display: inline-block;
         margin: .6em .4em;
@@ -378,7 +384,7 @@ table.heroT {
             width: 100%;
             background-color: $prime;
             color: #fff;
-            font-size: 2.2em;
+            font-size: 2.0em;
             
             &:hover {
                 background-color: #fff;
@@ -391,7 +397,7 @@ table.heroT {
         }
         
         &.wide {
-            max-width: 22.2em;
+            max-width: 20.2em;
             width: 90%;
         }
         
