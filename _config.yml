@@ -16,10 +16,10 @@ defaults:
     layout: default
     permalink: "/:basename:output_ext"
 email: e@ma.il
-description: 'Youth for Climate Luxembourg
+description: 'Occupy for Climate.
 
 '
-baseurl: '/yfcl-wip'
+baseurl: ''
 url: ''
 permalink: pretty
 markdown: kramdown
