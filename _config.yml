@@ -16,16 +16,21 @@ defaults:
     layout: default
     permalink: "/:basename:output_ext"
 email: e@ma.il
-description: 'Youth for Climate Luxembourg
+description: 'Occupy for Climate.
 
 '
-baseurl: '/yfcl-wip'
+baseurl: ''
 url: ''
 permalink: pretty
 markdown: kramdown
-gems:
+plugins:
 - jekyll-feed
 - jekyll-seo-tag
 exclude:
 - Gemfile
 - Gemfile.lock
+
+# Random redirect settings
+random_redirect:
+  pages: true
+  documents: true
