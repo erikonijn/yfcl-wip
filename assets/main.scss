@@ -245,6 +245,12 @@ h2.herotxt {
         padding: 0;
     }
     
+    h2, h3 {
+        transform-origin: left;
+        text-transform: uppercase;
+        color: $prime;
+    }
+    
     p, li {
 //        line-height: 1.3em;
         margin-bottom: 0.2em;

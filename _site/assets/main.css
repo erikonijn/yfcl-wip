@@ -107,6 +107,10 @@ h2.herotxt {
     transform: scaleX(0.8);
     transform-origin: left;
     padding: 0; }
+  .page h2, .page h3 {
+    transform-origin: left;
+    text-transform: uppercase;
+    color: #08a635; }
   .page p, .page li {
     margin-bottom: 0.2em;
     text-transform: none;
