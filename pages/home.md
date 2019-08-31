@@ -7,7 +7,7 @@ category: Home
 
 # Youth for Climate
 
-<span class="big">Starting 20 September,</span> join us in a <span class="sec--">week of actions</span> in the name of our climate, ending with a <span class="sec">general strike to save the planet!</span>
+<span class="big">Starting 20 September,</span> join us in a <span class="sec--">week of actions</span> in the name of our climate, ending with a <span class="sec">mass mobilisation to save the planet!</span>
 
 
 <div class="action">
